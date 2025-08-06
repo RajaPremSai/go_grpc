@@ -5,7 +5,7 @@ This project demonstrates how to implement and use gRPC services in Go, includin
 ## Project Structure
 
 ```
-Prem/
+root/
 ├── client/         # gRPC client implementations
 ├── proto/          # Protocol Buffers definitions and generated code
 ├── server/         # gRPC server implementations
